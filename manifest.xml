@@ -11,9 +11,9 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Trigger Flow"/>
   <Description DefaultValue="Trigger Power Automate flow from Outlook"/>
-  <IconUrl DefaultValue="https://karan-dsw.github.io/outlook/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://karan-dsw.github.io/outlook/icon-128.png"/>
-  <SupportUrl DefaultValue="https://karan-dsw.github.io/outlook/support"/>
+  <IconUrl DefaultValue="https://karanpanchallll.github.io/outlook2/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://karanpanchallll.github.io/outlook2/icon-128.png"/>
+  <SupportUrl DefaultValue="https://karanpanchallll.github.io/outlook2/support"/>
   
   <AppDomains>
     <AppDomain>https://karan-dsw.github.io</AppDomain>
@@ -32,7 +32,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://karan-dsw.github.io/outlook/taskpane.html"/>
+        <SourceLocation DefaultValue="https://karanpanchallll.github.io/outlook2/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -91,13 +91,13 @@
     
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://karan-dsw.github.io/outlook/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://karan-dsw.github.io/outlook/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://karan-dsw.github.io/outlook/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://karanpanchallll.github.io/outlook2/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://karanpanchallll.github.io/outlook2/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://karanpanchallll.github.io/outlook2/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://karan-dsw.github.io/outlook/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://karan-dsw.github.io/outlook/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://karanpanchallll.github.io/outlook2/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://karanpanchallll.github.io/outlook2/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Flow Actions"/>
@@ -109,4 +109,5 @@
       </bt:LongStrings>
     </Resources>
   </VersionOverrides>
+
 </OfficeApp>
