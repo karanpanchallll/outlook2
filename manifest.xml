@@ -16,7 +16,7 @@
   <SupportUrl DefaultValue="https://karanpanchallll.github.io/outlook2/support"/>
   
   <AppDomains>
-    <AppDomain>https://karan-dsw.github.io</AppDomain>
+    <AppDomain>https://karanpanchallll.github.io</AppDomain>
   </AppDomains>
   
   <Hosts>
@@ -111,3 +111,4 @@
   </VersionOverrides>
 
 </OfficeApp>
+
